@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Appbiental</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_actividad_compleja">ActividadCompleja</string>
+    <string name="title_activity_actividad_info">ActividadInfo</string>
+    <string name="mostrar_edad">Tu edad es de %s años</string>
+</resources>
